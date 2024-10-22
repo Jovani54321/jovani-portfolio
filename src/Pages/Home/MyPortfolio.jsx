@@ -20,9 +20,9 @@ export default function MyPortfolio() {
                 Data Structures Quizzer
               </h3>
               <p className="text-md">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspenmdisse varius eim in eros elementum tristique
+              Developed an interactive quiz tool aimed at helping students reinforce their understanding of various data structures.
               </p>
+              <br />
             </div>
             <div className="project--buttons">
               <button className="text-sm portfolio--link">Github</button>
@@ -38,8 +38,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">Workout Coach</h3>
               <p className="text-md">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspenmdisse varius eim in eros elementum tristique
+              Collaborated with a team to develop a workout recommendation system utilizing data structures such as maps, heaps, priority queues, and more.
               </p>
             </div>
             <div className="project--buttons">
@@ -50,7 +49,6 @@ export default function MyPortfolio() {
               >
                 <button className="text-sm portfolio--link">Github</button>
               </a>
-              <button className="text-sm portfolio--link">Live Demo</button>
             </div>
           </div>
         </div>
@@ -64,9 +62,10 @@ export default function MyPortfolio() {
                 Wall-Following Robot
               </h3>
               <p className="text-md">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspenmdisse varius eim in eros elementum tristique
+              Developed a wall-following robot using Arduino for control and a 3D-printed body.
               </p>
+              <br />
+              <br />
             </div>
             <div className="project--buttons">
               <button className="text-sm portfolio--link">Github</button>

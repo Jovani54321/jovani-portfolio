@@ -11,7 +11,7 @@ export default function AboutMe() {
           <h2 className="skills--section--heading">About Me</h2>
           <p className="hero--section-description">
             Hi! I'm Jovani, a passionate Computer Engineering student at the University of South Florida.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac libero
+            I am currently a junior with experience in both full-stack web development and programming languages such as Python, C, C++, and more!
           </p>
           <p className="hero--section-description">
             When I'm not coding, you can find me on the soccer field with friends,
